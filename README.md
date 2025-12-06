@@ -30,10 +30,10 @@ All notes are stored in the browser using localStorage.
 
 ## Project Structure
 
-index.html
-style.css
-script.js
-README.md
+- index.html
+- style.css
+- script.js
+- README.md
 
 ---
 
