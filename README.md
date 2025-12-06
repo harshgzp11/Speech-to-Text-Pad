@@ -30,14 +30,10 @@ All notes are stored in the browser using localStorage.
 
 ## Project Structure
 
-speech-to-text-pad/
-│── index.html
-│── style.css
-│── script.js
-│── README.md
-
----
-
+index.html
+style.css
+script.js
+README.md
 
 ---
 
@@ -50,9 +46,6 @@ speech-to-text-pad/
 5. Click **Save Note** to save the note below  
 6. Each note can be deleted individually  
 7. Click **Clear All Notes** to remove everything  
-
----
-
 
 ---
 
