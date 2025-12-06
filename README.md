@@ -58,4 +58,4 @@ All notes are stored in the browser using localStorage.
 
 ## License
 
-This project is open-source and free to use for learning purposes.
+This project is open-source.
